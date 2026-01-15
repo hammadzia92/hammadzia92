@@ -18,7 +18,7 @@ UI/UX Developer • CX Designer
 <tr>
 <td width="60%">
 
-I’m a **multi-disciplinary Product Designer** with experience building **end-to-end digital products** across **SaaS, AI, and EdTech**.
+I’m a **As a UI/UX visionary, I blend emotion, usability, and innovation into every project — from cutting-edge startups to enterprise-grade platforms. Every pixel I push is backed by real human insight, strategic thinking, and a desire to craft digital journeys users don’t forget.** with experience building **end-to-end digital products** across **SaaS, AI, and EdTech**.
 
 I work at the **intersection of design, development, and AI**, meaning I don’t just design screens — I **ship products**.
 
