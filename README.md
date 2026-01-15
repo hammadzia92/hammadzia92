@@ -39,8 +39,8 @@ I work at the **intersection of design, development, and AI**, meaning I don’t
 
 ## 🧠 What I Do
 
-- Product UX & CX Design  
-- Full-Stack Web Development  
+- UI-UX & CX Design  
+- Frontend Development  
 - AI Feature UX & Prompt Engineering  
 - SaaS & Dashboard Design  
 - Design Systems & Developer Handoff  
